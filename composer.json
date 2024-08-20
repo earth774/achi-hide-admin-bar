@@ -1,0 +1,18 @@
+{
+    "name": "achi/hide-admin-bar",
+    "description": "A simple plugin to hide and show the WordPress admin bar",
+    "type": "project",
+	"license": "GPLv3 or later",
+    "authors": [
+		{
+			"name": "Sutthipong Nuanma"
+		}
+	],
+    "require": {
+    },
+    "autoload": {
+		"psr-4": {
+			"Achi\\HideAdminBar\\": ""
+		}
+	}
+}
